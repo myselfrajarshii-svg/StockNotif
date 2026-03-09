@@ -1,0 +1,2 @@
+rootProject.name = "StockAlert"
+include ':app'
